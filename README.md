@@ -26,7 +26,7 @@ I'm Soham from India.
 <h2>📬 Get in Touch</h2>
 
 <p >
-  <a href="mailto:sohamkshirsagar2004@gmail.com" target="_blank">
+  <a href="sohamkshirsagar2004@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
