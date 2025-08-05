@@ -23,31 +23,17 @@ I'm Soham from India.
 
 🌟 Projects:
 
+
 <h2>📬 Get in Touch</h2>
-
-<p >
-  <a href="https://mail.google.com/mail/u/0/#sent?compose=DmwnWrRsqPzKmqSTgVJWTGmbdLpMZJFSKQrJRPLzFTTwZvfPWVpqwWXZBQMhhzbrTdtMcWlDWDSb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/soham-kshirsagar-34569331a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/soham0231" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/iam_Soham0231" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-</p>
+<ul>
+  <li><strong>Email:</strong> <a href="sohamkshirsagar2004@gmail.com">sohamkshirsagar2004@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/soham-kshirsagar-34569331a/" target="_blank">soham kshirsagar</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/soham0231" target="_blank">soham0231</a></li>
+  <li><strong>Twitter (X):</strong> <a href="https://x.com/iam_Soham0231" target="_blank">@iam_Soham0231</a></li>
+  <li><strong>Portfolio:</strong> <a href="" target="_blank"></a></li>
+</ul>
 
 
-
-
-
-      
 
 <p align="center">
   ⭐️ Thanks for stopping by! <br>
